@@ -1,7 +1,5 @@
 # C12-CRUNCH-3D
 
-# C12 Crunch Portfolio
-
 Welcome to **C12 Crunch Portfolio**! This interactive course is designed to equip students with hands-on experience in **Human-Computer Interaction (HCI) design, Figma, GitHub, Java fundamentals, Object-Oriented Programming (OOP), React, and Agile methodology**. Throughout this 10-week course, students will engage in mini-lectures and hackathon-style projects to solidify their technical skills.
 
 ## 🔗 Quick Access  
