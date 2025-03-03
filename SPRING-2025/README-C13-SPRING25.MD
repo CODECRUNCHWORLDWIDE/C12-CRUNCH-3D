@@ -19,7 +19,7 @@ print("Hello, world!")
 -->
 
 ---
-# C1 Crunch Convos
+# C12 Crunch 3D
 
 Welcome to **C1 Crunch Convos**! This interactive course is designed to prepare students for technical interviews by emphasizing problem-solving, algorithms, and hands-on coding. You’ll dive deep into Python basics and advanced concepts, ensuring a strong foundation for tackling real-world challenges.
 
