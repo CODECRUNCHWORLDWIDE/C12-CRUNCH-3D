@@ -41,6 +41,7 @@ To get the most out of this course, please follow the steps below to set up your
 This repository contains everything you’ll need throughout the course:
 
 - **PowerPoint Slides**: Slide decks covering each unit. They include content covered in the workshops as well as extra guides and practice. They are found in [resources](https://github.com/CODE-CRUNCH-CLUB/C12-CRUNCH-3D/tree/main/SPRING-2025/RESOURCES).
+- **Links to Youtube Videos:** The videos are short screen recordings for each project discussed in the slides in case more visual guidance is preffered. The links are found under their corresponding unit below.
 
 ---
 
@@ -52,8 +53,11 @@ This repository contains everything you’ll need throughout the course:
 
 - **Week Dates:** February 17, 2025 - February 21, 2025  
 - **Link to Lecture Slides:** [Unit 1 - C12 _ Crunch 3D_ CAD & Modeling - Topic_ Introduction & Sketching.pdf](https://github.com/CODE-CRUNCH-CLUB/C12-CRUNCH-3D/blob/main/SPRING-2025/RESOURCES/Unit%201/Unit%201%20-%20C12%20_%20Crunch%203D_%20CAD%20%26%20Modeling%20-%20Topic_%20Introduction%20%26%20Sketching.pdf)  
-
-- **Link to Extra Guidance & Practice Slides:** [Unit 1-C12_Crunch 3D_CAD and Modeling-Topic_Introduction and Sketching.pdf](https://github.com/CODE-CRUNCH-CLUB/C12-CRUNCH-3D/blob/main/SPRING-2025/RESOURCES/Unit%201/Unit%201-C12_Crunch%203D_CAD%20and%20Modeling-Topic_Introduction%20and%20Sketching.pdf)
+- **Link to Extra Guidance & Practice Slides:** [Unit 1-C12_Crunch 3D_CAD and Modeling-Topic_Introduction and Sketching.pdf](https://github.com/CODE-CRUNCH-CLUB/C12-CRUNCH-3D/blob/main/SPRING-2025/RESOURCES/Unit%201/Unit%201-C12_Crunch%203D_CAD%20and%20Modeling-Topic_Introduction%20and%20Sketching.pdf) 
+- **Link to Full Video for House Sketch:** [Full Video of House](https://youtu.be/BBZF4sBwN88)
+- **Link to Full Video for Circular Pattern:** [Full Video of Circular Pattern](https://youtu.be/D9yEveWeRes)
+- **Link to Full Video for Atom:** [Full Video of Atom](https://youtu.be/OGslPB4R8ak)
+- **Link to Full Video for Nut:** [Full Video of Nut](https://youtu.be/vQGRQDri124)
 
 ---
 
@@ -61,6 +65,10 @@ This repository contains everything you’ll need throughout the course:
 
 - **Week Dates:** March 3, 2025 - March 7, 2025  
 - **Link to Slides:** [Unit 2-C12_Crunch 3D_CAD and Modeling-Topic_3D Part Modeling.pdf](https://github.com/CODE-CRUNCH-CLUB/C12-CRUNCH-3D/blob/main/SPRING-2025/RESOURCES/Unit%202-C12_Crunch%203D_CAD%20and%20Modeling-Topic_3D%20Part%20Modeling.pdf)  
+- **Link to Full Video for Link:** [Full Video of Link](https://youtu.be/i31jfMxNqmU)
+- **Link to Full Video for Wheel Tire:** [Full Video of Wheel Tire](https://youtu.be/ovSa32Zw4-Y)
+- **Link to Full Video for Wheel Rim:** [Full Video of Wheel Rim](https://youtu.be/X0cKhsLO6Lk)
+- **Link to Full Video for Wine Glass:** [Full Video of Wine Glass](https://youtu.be/iZlacmYOMQ0)
 
 <!--
 ---
