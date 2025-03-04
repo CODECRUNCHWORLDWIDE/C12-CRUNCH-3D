@@ -1,6 +1,6 @@
 # C12-CRUNCH-3D
 
-Welcome to **C12 Crunch Portfolio**! This interactive course is designed to equip students with hands-on experience in **Human-Computer Interaction (HCI) design, Figma, GitHub, Java fundamentals, Object-Oriented Programming (OOP), React, and Agile methodology**. Throughout this 10-week course, students will engage in mini-lectures and hackathon-style projects to solidify their technical skills.
+Welcome to the repository for **C12 Crunch 3D: CAD & Modeling**! This interactive course is designed to equip students with hands-on experience in **3D modeling and assemblies** through the program **OnShape**. Throughout this 6-week course, students will engage in mini-lectures and hackathon-style projects to solidify their technical skills.
 
 ## 🔗 Quick Access  
 - Repository Link: [C12 Crunch Portfolio](https://github.com/CODE-CRUNCH-CLUB/C12-CRUNCH-3D)  
@@ -8,10 +8,7 @@ Welcome to **C12 Crunch Portfolio**! This interactive course is designed to equi
 ## 📂 **Resources**  
 This repository contains all the resources you’ll need throughout the course:  
 
-- **Lecture Slides**: Slide decks covering each topic.  
-- **Code Templates**: Boilerplate code and examples for projects.  
-- **Mini-Projects**: Hands-on activities integrating Figma, Java, React, and Agile.  
-- **GitHub Guides**: Best practices for version control and collaboration.
+- **PowerPoint Slides**: Slide decks covering each week's topic. They include content covered in the workshops as well as extra guides and practice.
 
 ## 🗂️ Directory by Semester  
 Explore the course materials organized by semester below:
@@ -21,4 +18,4 @@ Explore the course materials organized by semester below:
 ---
 Let’s keep building and innovating together! 🚀  
 
-If you have any questions or feedback, feel free to reach out. Happy coding! 💻🔥  
+If you have any questions or feedback, feel free to reach out. Happy CADing! 💻🔥  
