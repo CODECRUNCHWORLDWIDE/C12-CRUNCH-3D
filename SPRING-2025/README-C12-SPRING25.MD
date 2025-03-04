@@ -51,18 +51,18 @@ This repository contains everything you’ll need throughout the course:
 ## Unit 1: Introduction & Sketching
 
 - **Week Dates:** February 17, 2025 - February 21, 2025  
-- **Link to Lecture Slides:** [Unit 1 - C12 _ Crunch 3D_ CAD & Modeling - Topic_ Introduction & Sketching.pdf](https://github.com/CODE-CRUNCH-CLUB/C12-CRUNCH-3D/blob/main/SPRING-2025/RESOURCES/Unit%201%20-%20C12%20_%20Crunch%203D_%20CAD%20%26%20Modeling%20-%20Topic_%20Introduction%20%26%20Sketching.pdf)  
+- **Link to Lecture Slides:** [Unit 1 - C12 _ Crunch 3D_ CAD & Modeling - Topic_ Introduction & Sketching.pdf](https://github.com/CODE-CRUNCH-CLUB/C12-CRUNCH-3D/blob/main/SPRING-2025/RESOURCES/Unit%201/Unit%201%20-%20C12%20_%20Crunch%203D_%20CAD%20%26%20Modeling%20-%20Topic_%20Introduction%20%26%20Sketching.pdf)  
 
-<!--
-- **Link to Extra Guidance & Practice Slides:** 
+- **Link to Extra Guidance & Practice Slides:** [Unit 1-C12_Crunch 3D_CAD and Modeling-Topic_Introduction and Sketching.pdf](https://github.com/CODE-CRUNCH-CLUB/C12-CRUNCH-3D/blob/main/SPRING-2025/RESOURCES/Unit%201/Unit%201-C12_Crunch%203D_CAD%20and%20Modeling-Topic_Introduction%20and%20Sketching.pdf)
 
 ---
 
 ## Unit 2: 3D Modeling
 
 - **Week Dates:** March 3, 2025 - March 7, 2025  
-- **Link to Slides:**   
+- **Link to Slides:** [Unit 2-C12_Crunch 3D_CAD and Modeling-Topic_3D Part Modeling.pdf](https://github.com/CODE-CRUNCH-CLUB/C12-CRUNCH-3D/blob/main/SPRING-2025/RESOURCES/Unit%202-C12_Crunch%203D_CAD%20and%20Modeling-Topic_3D%20Part%20Modeling.pdf)  
 
+<!--
 ---
 
 ## Unit 3: 3D Modeling Continued
