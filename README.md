@@ -9,6 +9,7 @@ Welcome to the repository for **C12 Crunch 3D: CAD & Modeling**! This interactiv
 This repository contains all the resources you’ll need throughout the course:  
 
 - **PowerPoint Slides**: Slide decks covering each week's topic. They include content covered in the workshops as well as extra guides and practice.
+- **Links to Youtube Videos**: The videos are short screen recordings for each project discussed in the slides in case more visual guidance is preffered. 
 
 ## 🗂️ Directory by Semester  
 Explore the course materials organized by semester below:
