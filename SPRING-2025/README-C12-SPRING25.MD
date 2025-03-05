@@ -70,16 +70,16 @@ This repository contains everything you’ll need throughout the course:
 - **Link to Full Video for Wheel Rim:** [Full Video of Wheel Rim](https://youtu.be/X0cKhsLO6Lk)
 - **Link to Full Video for Wine Glass:** [Full Video of Wine Glass](https://youtu.be/iZlacmYOMQ0)
 
-<!--
 ---
 
 ## Unit 3: 3D Modeling Continued
 
 - **Week Dates:** March 10, 2025 - March 14, 2025  
-- **Link to Slides:**   
+- **Link to Slides:** [Unit 3-C12_Crunch 3D_CAD and Modeling-Topic_3D Part Modeling Continued.pdf](https://github.com/CODE-CRUNCH-CLUB/C12-CRUNCH-3D/blob/main/SPRING-2025/RESOURCES/Unit%203-C12_Crunch%203D_CAD%20and%20Modeling-Topic_3D%20Part%20Modeling%20Continued.pdf)
+- **Link to Full Video for Bench:** [Full Video of Bench](https://youtu.be/IvSWdn3v9kM)
+- **Link to Full Video for Bolt:** [Full Video of Bolt](https://youtu.be/q5C6IYhgHF0)
 
 ---
--->
 
 Enjoy your journey in mastering OnShape! If you have any questions or feedback, don’t hesitate to reach out. Let’s crunch some code together!
 
