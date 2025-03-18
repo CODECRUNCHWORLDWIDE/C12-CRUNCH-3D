@@ -85,6 +85,7 @@ This repository contains everything you’ll need throughout the course:
 
 - **Week Dates:** March 17, 2025 - March 21, 2025
 - **Link to Slides:** [Unit 4-C12_Crunch 3D_CAD and Modeling-Topic_Assemblies and Mating Constraints.pdf](https://github.com/CODE-CRUNCH-CLUB/C12-CRUNCH-3D/blob/main/SPRING-2025/RESOURCES/Unit%204-C12_Crunch%203D_CAD%20and%20Modeling-Topic_Assemblies%20and%20Mating%20Constraints.pdf)
+- **Link to Full Video for Link Assembly:** [Full Video of Link Assembly](https://youtu.be/3Q_x-blEwd4)
 
 ---
 
