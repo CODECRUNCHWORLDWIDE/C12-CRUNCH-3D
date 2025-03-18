@@ -81,6 +81,13 @@ This repository contains everything you’ll need throughout the course:
 
 ---
 
+## Unit 4: Assemblies & Mating Contraints
+
+- **Week Dates:** March 17, 2025 - March 21, 2025
+- **Link to Slides:** [Unit 4-C12_Crunch 3D_CAD and Modeling-Topic_Assemblies and Mating Constraints.pdf](https://github.com/CODE-CRUNCH-CLUB/C12-CRUNCH-3D/blob/main/SPRING-2025/RESOURCES/Unit%204-C12_Crunch%203D_CAD%20and%20Modeling-Topic_Assemblies%20and%20Mating%20Constraints.pdf)
+
+---
+
 Enjoy your journey in mastering OnShape! If you have any questions or feedback, don’t hesitate to reach out. Let’s crunch some code together!
 
 
