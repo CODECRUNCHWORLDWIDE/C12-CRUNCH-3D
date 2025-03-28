@@ -89,6 +89,13 @@ This repository contains everything you’ll need throughout the course:
 
 ---
 
+## Unit 5: Final Project
+
+- **Week Dates:** March 24, 2025 - March 28, 2025
+- **Link to Slides:** [Unit 5-C12_Crunch 3D_CAD and Modeling-Topic_Final Project.pdf](https://github.com/CODE-CRUNCH-CLUB/C12-CRUNCH-3D/blob/main/SPRING-2025/RESOURCES/Unit%205-C12_Crunch%203D_CAD%20and%20Modeling-Topic_Final%20Project.pdf)
+
+---
+
 Enjoy your journey in mastering OnShape! If you have any questions or feedback, don’t hesitate to reach out. Let’s crunch some code together!
 
 
