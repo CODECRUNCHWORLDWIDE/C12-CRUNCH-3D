@@ -96,6 +96,13 @@ This repository contains everything you’ll need throughout the course:
 
 ---
 
+## Unit 6: Final Project Showcase
+
+- **Week Dates:** March 31, 2025 - April 4, 2025
+- **Link to Slides:** [Unit 6-C12_Crunch 3D_CAD and Modeling-Topic_Final Project Showcase.pdf](https://github.com/CODE-CRUNCH-CLUB/C12-CRUNCH-3D/blob/main/SPRING-2025/RESOURCES/Unit%206-C12_Crunch%203D_CAD%20and%20Modeling-Topic_Final%20Project%20Showcase.pdf)
+
+---
+
 Enjoy your journey in mastering OnShape! If you have any questions or feedback, don’t hesitate to reach out. Let’s crunch some code together!
 
 
