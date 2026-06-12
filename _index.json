@@ -1,0 +1,17 @@
+{
+  "repo": "C12-CRUNCH-3D",
+  "files": [
+    {
+      "path": "CODE_OF_CONDUCT.md",
+      "title": "Contributor Covenant Code of Conduct"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "title": "Contributing to Crunch 3D"
+    },
+    {
+      "path": "README.md",
+      "title": "C12-CRUNCH-3D"
+    }
+  ]
+}
