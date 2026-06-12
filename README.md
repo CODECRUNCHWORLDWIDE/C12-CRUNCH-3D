@@ -3,7 +3,7 @@
 Welcome to the repository for **C12 Crunch 3D: CAD & Modeling**! This interactive course is designed to equip students with hands-on experience in **3D modeling and assemblies** through the program **OnShape**. Throughout this 6-week course, students will engage in mini-lectures and hackathon-style projects to solidify their technical skills.
 
 ## 🔗 Quick Access  
-- Repository Link: [C12 Crunch Portfolio](https://github.com/CODE-CRUNCH-CLUB/C12-CRUNCH-3D)  
+- Repository Link: [C12 Crunch Portfolio](https://github.com/CODECRUNCHWORLDWIDE/C12-CRUNCH-3D)  
 
 ## 📂 **Resources**  
 This repository contains all the resources you’ll need throughout the course:  
@@ -14,7 +14,7 @@ This repository contains all the resources you’ll need throughout the course:
 ## 🗂️ Directory by Semester  
 Explore the course materials organized by semester below:
 
-- **Spring 2025**: [Spring 2025](https://github.com/CODE-CRUNCH-CLUB/C12-CRUNCH-3D/tree/main/SPRING-2025)   
+- **Spring 2025**: [Spring 2025](https://github.com/CODECRUNCHWORLDWIDE/C12-CRUNCH-3D/tree/main/SPRING-2025)   
 
 ---
 Let’s keep building and innovating together! 🚀  
