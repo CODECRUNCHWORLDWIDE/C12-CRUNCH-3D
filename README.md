@@ -30,9 +30,19 @@ If you have any questions or feedback, feel free to reach out. Happy CADing! ðŸ’
 
 | Section | Count |
 | --- | --- |
-| Curriculum entries | 0 |
+| Curriculum entries | 7 |
 | Projects | 0 |
 | Past sessions | 1 |
+
+## Curriculum
+
+- [SYLLABUS](curriculum/SYLLABUS.md)
+- [week 01 onshape onboarding and sketch fundamentals](curriculum/week-01-onshape-onboarding-and-sketch-fundamentals/README.md)
+- [week 02 extrudes revolves and part modeling](curriculum/week-02-extrudes-revolves-and-part-modeling/README.md)
+- [week 03 references planes and multi feature parts](curriculum/week-03-references-planes-and-multi-feature-parts/README.md)
+- [week 04 assemblies and mates](curriculum/week-04-assemblies-and-mates/README.md)
+- [week 05 drawings gdt and parametric configurations](curriculum/week-05-drawings-gdt-and-parametric-configurations/README.md)
+- [week 06 capstone multi part mechanism](curriculum/week-06-capstone-multi-part-mechanism/README.md)
 
 ## In this course
 
