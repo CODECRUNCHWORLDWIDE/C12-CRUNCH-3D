@@ -2,6 +2,10 @@
   "repo": "C12-CRUNCH-3D",
   "files": [
     {
+      "path": "00-overview.md",
+      "title": "C12-CRUNCH-3D"
+    },
+    {
       "path": "CODE_OF_CONDUCT.md",
       "title": "Contributor Covenant Code of Conduct"
     },
@@ -10,324 +14,348 @@
       "title": "Contributing to Crunch 3D"
     },
     {
-      "path": "README.md",
-      "title": "C12-CRUNCH-3D"
-    },
-    {
       "path": "curriculum/SYLLABUS.md",
       "title": "C12 \u00b7 Crunch 3D: CAD & Modeling \u2014 Syllabus"
     },
     {
-      "path": "curriculum/week-01-onshape-onboarding-and-sketch-fundamentals/README.md",
+      "path": "curriculum/week-01-onshape-onboarding-and-sketch-fundamentals/00-overview.md",
       "title": "Week 1 \u2014 OnShape Onboarding & Sketch Fundamentals"
     },
     {
-      "path": "curriculum/week-01-onshape-onboarding-and-sketch-fundamentals/challenges/README.md",
-      "title": "Week 1 \u2014 Challenges"
-    },
-    {
-      "path": "curriculum/week-01-onshape-onboarding-and-sketch-fundamentals/challenges/challenge-01-gasket-profile.md",
-      "title": "Challenge 1 \u2014 Gasket Profile from a Dimensioned Drawing"
-    },
-    {
-      "path": "curriculum/week-01-onshape-onboarding-and-sketch-fundamentals/exercises/README.md",
-      "title": "Week 1 \u2014 Exercises"
-    },
-    {
-      "path": "curriculum/week-01-onshape-onboarding-and-sketch-fundamentals/exercises/exercise-01-first-document-and-sketch.md",
-      "title": "Exercise 1 \u2014 First Document and Sketch"
-    },
-    {
-      "path": "curriculum/week-01-onshape-onboarding-and-sketch-fundamentals/exercises/exercise-02-constraint-drills.md",
-      "title": "Exercise 2 \u2014 Constraint Drills"
-    },
-    {
-      "path": "curriculum/week-01-onshape-onboarding-and-sketch-fundamentals/exercises/exercise-03-arc-and-slot-profile.md",
-      "title": "Exercise 3 \u2014 Arc and Slot Lever Profile"
-    },
-    {
-      "path": "curriculum/week-01-onshape-onboarding-and-sketch-fundamentals/homework.md",
-      "title": "Week 1 Homework"
-    },
-    {
-      "path": "curriculum/week-01-onshape-onboarding-and-sketch-fundamentals/lecture-notes/01-onshape-tour-documents-and-versioning.md",
-      "title": "Lecture 1 \u2014 OnShape Tour: Documents, Workspaces, the Feature Tree, and Cloud Versioning"
-    },
-    {
-      "path": "curriculum/week-01-onshape-onboarding-and-sketch-fundamentals/lecture-notes/02-sketching-with-intent-constraints-and-dimensions.md",
-      "title": "Lecture 2 \u2014 Sketching with Intent: Geometric Constraints, Dimensions, and Fully-Defined Sketches"
-    },
-    {
-      "path": "curriculum/week-01-onshape-onboarding-and-sketch-fundamentals/mini-project/README.md",
-      "title": "Mini-Project \u2014 The Running Project: Master Sketch"
-    },
-    {
-      "path": "curriculum/week-01-onshape-onboarding-and-sketch-fundamentals/quiz.md",
-      "title": "Week 1 \u2014 Quiz"
-    },
-    {
-      "path": "curriculum/week-01-onshape-onboarding-and-sketch-fundamentals/resources.md",
+      "path": "curriculum/week-01-onshape-onboarding-and-sketch-fundamentals/01-resources.md",
       "title": "Week 1 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-02-extrudes-revolves-and-part-modeling/README.md",
+      "path": "curriculum/week-01-onshape-onboarding-and-sketch-fundamentals/02-lecture-notes/01-onshape-tour-documents-and-versioning.md",
+      "title": "Lecture 1 \u2014 OnShape Tour: Documents, Workspaces, the Feature Tree, and Cloud Versioning"
+    },
+    {
+      "path": "curriculum/week-01-onshape-onboarding-and-sketch-fundamentals/02-lecture-notes/02-sketching-with-intent-constraints-and-dimensions.md",
+      "title": "Lecture 2 \u2014 Sketching with Intent: Geometric Constraints, Dimensions, and Fully-Defined Sketches"
+    },
+    {
+      "path": "curriculum/week-01-onshape-onboarding-and-sketch-fundamentals/03-exercises/00-overview.md",
+      "title": "Week 1 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-01-onshape-onboarding-and-sketch-fundamentals/03-exercises/exercise-01-first-document-and-sketch.md",
+      "title": "Exercise 1 \u2014 First Document and Sketch"
+    },
+    {
+      "path": "curriculum/week-01-onshape-onboarding-and-sketch-fundamentals/03-exercises/exercise-02-constraint-drills.md",
+      "title": "Exercise 2 \u2014 Constraint Drills"
+    },
+    {
+      "path": "curriculum/week-01-onshape-onboarding-and-sketch-fundamentals/03-exercises/exercise-03-arc-and-slot-profile.md",
+      "title": "Exercise 3 \u2014 Arc and Slot Lever Profile"
+    },
+    {
+      "path": "curriculum/week-01-onshape-onboarding-and-sketch-fundamentals/04-challenges/00-overview.md",
+      "title": "Week 1 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-01-onshape-onboarding-and-sketch-fundamentals/04-challenges/challenge-01-gasket-profile.md",
+      "title": "Challenge 1 \u2014 Gasket Profile from a Dimensioned Drawing"
+    },
+    {
+      "path": "curriculum/week-01-onshape-onboarding-and-sketch-fundamentals/05-quiz.md",
+      "title": "Week 1 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-01-onshape-onboarding-and-sketch-fundamentals/06-homework.md",
+      "title": "Week 1 Homework"
+    },
+    {
+      "path": "curriculum/week-01-onshape-onboarding-and-sketch-fundamentals/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 The Running Project: Master Sketch"
+    },
+    {
+      "path": "curriculum/week-02-extrudes-revolves-and-part-modeling/00-overview.md",
       "title": "Week 2 \u2014 Extrudes, Revolves & Solid Part Modeling"
     },
     {
-      "path": "curriculum/week-02-extrudes-revolves-and-part-modeling/challenges/README.md",
-      "title": "Week 2 \u2014 Challenges"
-    },
-    {
-      "path": "curriculum/week-02-extrudes-revolves-and-part-modeling/challenges/challenge-01-shelled-bottle.md",
-      "title": "Challenge 1 \u2014 Shelled Bottle or Cup from a Photo"
-    },
-    {
-      "path": "curriculum/week-02-extrudes-revolves-and-part-modeling/exercises/README.md",
-      "title": "Week 2 \u2014 Exercises"
-    },
-    {
-      "path": "curriculum/week-02-extrudes-revolves-and-part-modeling/exercises/exercise-01-extrude-and-pocket-a-bracket.md",
-      "title": "Exercise 1 \u2014 Extrude and Pocket a Bracket"
-    },
-    {
-      "path": "curriculum/week-02-extrudes-revolves-and-part-modeling/exercises/exercise-02-revolve-a-knob.md",
-      "title": "Exercise 2 \u2014 Revolve a Control Knob"
-    },
-    {
-      "path": "curriculum/week-02-extrudes-revolves-and-part-modeling/exercises/exercise-03-holes-fillets-shell.md",
-      "title": "Exercise 3 \u2014 Holes, Fillets, and a Shell"
-    },
-    {
-      "path": "curriculum/week-02-extrudes-revolves-and-part-modeling/homework.md",
-      "title": "Week 2 Homework"
-    },
-    {
-      "path": "curriculum/week-02-extrudes-revolves-and-part-modeling/lecture-notes/01-extrude-end-conditions-and-booleans.md",
-      "title": "Lecture 1 \u2014 From 2D to 3D: Extrude, End Conditions, and Boolean Solids"
-    },
-    {
-      "path": "curriculum/week-02-extrudes-revolves-and-part-modeling/lecture-notes/02-revolves-holes-and-dress-up-features.md",
-      "title": "Lecture 2 \u2014 Revolves, Holes, and Dress-Up Features: Fillet, Chamfer, Shell, Draft"
-    },
-    {
-      "path": "curriculum/week-02-extrudes-revolves-and-part-modeling/mini-project/README.md",
-      "title": "Mini-Project \u2014 From Master Sketch to Finished Solid Part"
-    },
-    {
-      "path": "curriculum/week-02-extrudes-revolves-and-part-modeling/quiz.md",
-      "title": "Week 2 \u2014 Quiz"
-    },
-    {
-      "path": "curriculum/week-02-extrudes-revolves-and-part-modeling/resources.md",
+      "path": "curriculum/week-02-extrudes-revolves-and-part-modeling/01-resources.md",
       "title": "Week 2 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-03-references-planes-and-multi-feature-parts/README.md",
+      "path": "curriculum/week-02-extrudes-revolves-and-part-modeling/02-lecture-notes/01-extrude-end-conditions-and-booleans.md",
+      "title": "Lecture 1 \u2014 From 2D to 3D: Extrude, End Conditions, and Boolean Solids"
+    },
+    {
+      "path": "curriculum/week-02-extrudes-revolves-and-part-modeling/02-lecture-notes/02-revolves-holes-and-dress-up-features.md",
+      "title": "Lecture 2 \u2014 Revolves, Holes, and Dress-Up Features: Fillet, Chamfer, Shell, Draft"
+    },
+    {
+      "path": "curriculum/week-02-extrudes-revolves-and-part-modeling/03-exercises/00-overview.md",
+      "title": "Week 2 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-02-extrudes-revolves-and-part-modeling/03-exercises/exercise-01-extrude-and-pocket-a-bracket.md",
+      "title": "Exercise 1 \u2014 Extrude and Pocket a Bracket"
+    },
+    {
+      "path": "curriculum/week-02-extrudes-revolves-and-part-modeling/03-exercises/exercise-02-revolve-a-knob.md",
+      "title": "Exercise 2 \u2014 Revolve a Control Knob"
+    },
+    {
+      "path": "curriculum/week-02-extrudes-revolves-and-part-modeling/03-exercises/exercise-03-holes-fillets-shell.md",
+      "title": "Exercise 3 \u2014 Holes, Fillets, and a Shell"
+    },
+    {
+      "path": "curriculum/week-02-extrudes-revolves-and-part-modeling/04-challenges/00-overview.md",
+      "title": "Week 2 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-02-extrudes-revolves-and-part-modeling/04-challenges/challenge-01-shelled-bottle.md",
+      "title": "Challenge 1 \u2014 Shelled Bottle or Cup from a Photo"
+    },
+    {
+      "path": "curriculum/week-02-extrudes-revolves-and-part-modeling/05-quiz.md",
+      "title": "Week 2 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-02-extrudes-revolves-and-part-modeling/06-homework.md",
+      "title": "Week 2 Homework"
+    },
+    {
+      "path": "curriculum/week-02-extrudes-revolves-and-part-modeling/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 From Master Sketch to Finished Solid Part"
+    },
+    {
+      "path": "curriculum/week-03-references-planes-and-multi-feature-parts/00-overview.md",
       "title": "Week 3 \u2014 References, Planes & Multi-Feature Parts"
     },
     {
-      "path": "curriculum/week-03-references-planes-and-multi-feature-parts/challenges/README.md",
-      "title": "Week 3 \u2014 Challenges"
-    },
-    {
-      "path": "curriculum/week-03-references-planes-and-multi-feature-parts/challenges/challenge-01-parametric-heat-sink-or-pipe-elbow.md",
-      "title": "Challenge 1 \u2014 Parametric Heat Sink or Pipe Elbow"
-    },
-    {
-      "path": "curriculum/week-03-references-planes-and-multi-feature-parts/exercises/README.md",
-      "title": "Week 3 \u2014 Exercises"
-    },
-    {
-      "path": "curriculum/week-03-references-planes-and-multi-feature-parts/exercises/exercise-01-offset-and-angled-planes.md",
-      "title": "Exercise 1 \u2014 Offset & Angled Planes, and On-Face Sketching"
-    },
-    {
-      "path": "curriculum/week-03-references-planes-and-multi-feature-parts/exercises/exercise-02-patterns-and-mirror.md",
-      "title": "Exercise 2 \u2014 Patterns & Mirror"
-    },
-    {
-      "path": "curriculum/week-03-references-planes-and-multi-feature-parts/exercises/exercise-03-sweep-and-loft.md",
-      "title": "Exercise 3 \u2014 Sweep & Loft"
-    },
-    {
-      "path": "curriculum/week-03-references-planes-and-multi-feature-parts/homework.md",
-      "title": "Week 3 Homework"
-    },
-    {
-      "path": "curriculum/week-03-references-planes-and-multi-feature-parts/lecture-notes/01-reference-geometry-planes-axes-and-mate-connectors.md",
-      "title": "Lecture 1 \u2014 Reference Geometry: Construction Planes, Offset/Angled Planes, Axes, and Mate Connectors"
-    },
-    {
-      "path": "curriculum/week-03-references-planes-and-multi-feature-parts/lecture-notes/02-multiplying-geometry-patterns-mirror-sweep-and-loft.md",
-      "title": "Lecture 2 \u2014 Multiplying Geometry: Linear & Circular Patterns, Mirror, Sweep, and Loft"
-    },
-    {
-      "path": "curriculum/week-03-references-planes-and-multi-feature-parts/mini-project/README.md",
-      "title": "Mini-Project \u2014 Promote the Running Part to a Multi-Feature Part"
-    },
-    {
-      "path": "curriculum/week-03-references-planes-and-multi-feature-parts/quiz.md",
-      "title": "Week 3 \u2014 Quiz"
-    },
-    {
-      "path": "curriculum/week-03-references-planes-and-multi-feature-parts/resources.md",
+      "path": "curriculum/week-03-references-planes-and-multi-feature-parts/01-resources.md",
       "title": "Week 3 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-04-assemblies-and-mates/README.md",
+      "path": "curriculum/week-03-references-planes-and-multi-feature-parts/02-lecture-notes/01-reference-geometry-planes-axes-and-mate-connectors.md",
+      "title": "Lecture 1 \u2014 Reference Geometry: Construction Planes, Offset/Angled Planes, Axes, and Mate Connectors"
+    },
+    {
+      "path": "curriculum/week-03-references-planes-and-multi-feature-parts/02-lecture-notes/02-multiplying-geometry-patterns-mirror-sweep-and-loft.md",
+      "title": "Lecture 2 \u2014 Multiplying Geometry: Linear & Circular Patterns, Mirror, Sweep, and Loft"
+    },
+    {
+      "path": "curriculum/week-03-references-planes-and-multi-feature-parts/03-exercises/00-overview.md",
+      "title": "Week 3 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-03-references-planes-and-multi-feature-parts/03-exercises/exercise-01-offset-and-angled-planes.md",
+      "title": "Exercise 1 \u2014 Offset & Angled Planes, and On-Face Sketching"
+    },
+    {
+      "path": "curriculum/week-03-references-planes-and-multi-feature-parts/03-exercises/exercise-02-patterns-and-mirror.md",
+      "title": "Exercise 2 \u2014 Patterns & Mirror"
+    },
+    {
+      "path": "curriculum/week-03-references-planes-and-multi-feature-parts/03-exercises/exercise-03-sweep-and-loft.md",
+      "title": "Exercise 3 \u2014 Sweep & Loft"
+    },
+    {
+      "path": "curriculum/week-03-references-planes-and-multi-feature-parts/04-challenges/00-overview.md",
+      "title": "Week 3 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-03-references-planes-and-multi-feature-parts/04-challenges/challenge-01-parametric-heat-sink-or-pipe-elbow.md",
+      "title": "Challenge 1 \u2014 Parametric Heat Sink or Pipe Elbow"
+    },
+    {
+      "path": "curriculum/week-03-references-planes-and-multi-feature-parts/05-quiz.md",
+      "title": "Week 3 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-03-references-planes-and-multi-feature-parts/06-homework.md",
+      "title": "Week 3 Homework"
+    },
+    {
+      "path": "curriculum/week-03-references-planes-and-multi-feature-parts/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 Promote the Running Part to a Multi-Feature Part"
+    },
+    {
+      "path": "curriculum/week-04-assemblies-and-mates/00-overview.md",
       "title": "Week 4 \u2014 Assemblies & Mates"
     },
     {
-      "path": "curriculum/week-04-assemblies-and-mates/challenges/README.md",
-      "title": "Week 4 \u2014 Challenges"
-    },
-    {
-      "path": "curriculum/week-04-assemblies-and-mates/challenges/challenge-01-four-bar-linkage.md",
-      "title": "Challenge 1 \u2014 A Working 4-Bar Linkage"
-    },
-    {
-      "path": "curriculum/week-04-assemblies-and-mates/exercises/README.md",
-      "title": "Week 4 \u2014 Exercises"
-    },
-    {
-      "path": "curriculum/week-04-assemblies-and-mates/exercises/exercise-01-insert-fasten-and-revolute.md",
-      "title": "Exercise 1 \u2014 Insert, Fasten, and a Revolute Hinge"
-    },
-    {
-      "path": "curriculum/week-04-assemblies-and-mates/exercises/exercise-02-slider-cylindrical-and-the-content-library.md",
-      "title": "Exercise 2 \u2014 Slider, Cylindrical, and a Library Bolt"
-    },
-    {
-      "path": "curriculum/week-04-assemblies-and-mates/exercises/exercise-03-subassembly-and-interference-check.md",
-      "title": "Exercise 3 \u2014 Sub-Assembly + Interference Check"
-    },
-    {
-      "path": "curriculum/week-04-assemblies-and-mates/homework.md",
-      "title": "Week 4 Homework"
-    },
-    {
-      "path": "curriculum/week-04-assemblies-and-mates/lecture-notes/01-the-mate-system-and-degrees-of-freedom.md",
-      "title": "Lecture 1 \u2014 The Mate System and Degrees of Freedom"
-    },
-    {
-      "path": "curriculum/week-04-assemblies-and-mates/lecture-notes/02-assembly-strategy-insert-in-context-subassemblies.md",
-      "title": "Lecture 2 \u2014 Assembly Strategy: Insert vs In-Context, Sub-Assemblies, and the Standard Content Library"
-    },
-    {
-      "path": "curriculum/week-04-assemblies-and-mates/mini-project/README.md",
-      "title": "Mini-Project \u2014 From a Multi-Feature Part to an Articulating Assembly"
-    },
-    {
-      "path": "curriculum/week-04-assemblies-and-mates/quiz.md",
-      "title": "Week 4 \u2014 Quiz"
-    },
-    {
-      "path": "curriculum/week-04-assemblies-and-mates/resources.md",
+      "path": "curriculum/week-04-assemblies-and-mates/01-resources.md",
       "title": "Week 4 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-05-drawings-gdt-and-parametric-configurations/README.md",
+      "path": "curriculum/week-04-assemblies-and-mates/02-lecture-notes/01-the-mate-system-and-degrees-of-freedom.md",
+      "title": "Lecture 1 \u2014 The Mate System and Degrees of Freedom"
+    },
+    {
+      "path": "curriculum/week-04-assemblies-and-mates/02-lecture-notes/02-assembly-strategy-insert-in-context-subassemblies.md",
+      "title": "Lecture 2 \u2014 Assembly Strategy: Insert vs In-Context, Sub-Assemblies, and the Standard Content Library"
+    },
+    {
+      "path": "curriculum/week-04-assemblies-and-mates/03-exercises/00-overview.md",
+      "title": "Week 4 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-04-assemblies-and-mates/03-exercises/exercise-01-insert-fasten-and-revolute.md",
+      "title": "Exercise 1 \u2014 Insert, Fasten, and a Revolute Hinge"
+    },
+    {
+      "path": "curriculum/week-04-assemblies-and-mates/03-exercises/exercise-02-slider-cylindrical-and-the-content-library.md",
+      "title": "Exercise 2 \u2014 Slider, Cylindrical, and a Library Bolt"
+    },
+    {
+      "path": "curriculum/week-04-assemblies-and-mates/03-exercises/exercise-03-subassembly-and-interference-check.md",
+      "title": "Exercise 3 \u2014 Sub-Assembly + Interference Check"
+    },
+    {
+      "path": "curriculum/week-04-assemblies-and-mates/04-challenges/00-overview.md",
+      "title": "Week 4 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-04-assemblies-and-mates/04-challenges/challenge-01-four-bar-linkage.md",
+      "title": "Challenge 1 \u2014 A Working 4-Bar Linkage"
+    },
+    {
+      "path": "curriculum/week-04-assemblies-and-mates/05-quiz.md",
+      "title": "Week 4 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-04-assemblies-and-mates/06-homework.md",
+      "title": "Week 4 Homework"
+    },
+    {
+      "path": "curriculum/week-04-assemblies-and-mates/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 From a Multi-Feature Part to an Articulating Assembly"
+    },
+    {
+      "path": "curriculum/week-05-drawings-gdt-and-parametric-configurations/00-overview.md",
       "title": "Week 5 \u2014 Drawings, Dimensions, GD&T & Configurations"
     },
     {
-      "path": "curriculum/week-05-drawings-gdt-and-parametric-configurations/challenges/README.md",
-      "title": "Week 5 \u2014 Challenges"
-    },
-    {
-      "path": "curriculum/week-05-drawings-gdt-and-parametric-configurations/challenges/challenge-01-manufacturing-ready-drawing.md",
-      "title": "Challenge 1 \u2014 A Manufacturing-Ready, Configured Drawing"
-    },
-    {
-      "path": "curriculum/week-05-drawings-gdt-and-parametric-configurations/exercises/README.md",
-      "title": "Week 5 \u2014 Exercises"
-    },
-    {
-      "path": "curriculum/week-05-drawings-gdt-and-parametric-configurations/exercises/exercise-01-first-drawing.md",
-      "title": "Exercise 1 \u2014 Your First Drawing"
-    },
-    {
-      "path": "curriculum/week-05-drawings-gdt-and-parametric-configurations/exercises/exercise-02-section-views-and-gdt.md",
-      "title": "Exercise 2 \u2014 Section Views & GD&T"
-    },
-    {
-      "path": "curriculum/week-05-drawings-gdt-and-parametric-configurations/exercises/exercise-03-configurations-part-family.md",
-      "title": "Exercise 3 \u2014 Configurations: One Part, Three Sizes"
-    },
-    {
-      "path": "curriculum/week-05-drawings-gdt-and-parametric-configurations/homework.md",
-      "title": "Week 5 Homework"
-    },
-    {
-      "path": "curriculum/week-05-drawings-gdt-and-parametric-configurations/lecture-notes/01-the-drawing-package.md",
-      "title": "Lecture 1 \u2014 The Drawing Package: Views, Dimensions, Title Blocks, BOM & GD&T"
-    },
-    {
-      "path": "curriculum/week-05-drawings-gdt-and-parametric-configurations/lecture-notes/02-parametric-power-variables-and-configurations.md",
-      "title": "Lecture 2 \u2014 Parametric Power: Variables, Equations & Configurations"
-    },
-    {
-      "path": "curriculum/week-05-drawings-gdt-and-parametric-configurations/mini-project/README.md",
-      "title": "Mini-Project \u2014 Parameterize & Document the Assembly's Key Part"
-    },
-    {
-      "path": "curriculum/week-05-drawings-gdt-and-parametric-configurations/quiz.md",
-      "title": "Week 5 \u2014 Quiz"
-    },
-    {
-      "path": "curriculum/week-05-drawings-gdt-and-parametric-configurations/resources.md",
+      "path": "curriculum/week-05-drawings-gdt-and-parametric-configurations/01-resources.md",
       "title": "Week 5 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-06-capstone-multi-part-mechanism/README.md",
+      "path": "curriculum/week-05-drawings-gdt-and-parametric-configurations/02-lecture-notes/01-the-drawing-package.md",
+      "title": "Lecture 1 \u2014 The Drawing Package: Views, Dimensions, Title Blocks, BOM & GD&T"
+    },
+    {
+      "path": "curriculum/week-05-drawings-gdt-and-parametric-configurations/02-lecture-notes/02-parametric-power-variables-and-configurations.md",
+      "title": "Lecture 2 \u2014 Parametric Power: Variables, Equations & Configurations"
+    },
+    {
+      "path": "curriculum/week-05-drawings-gdt-and-parametric-configurations/03-exercises/00-overview.md",
+      "title": "Week 5 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-05-drawings-gdt-and-parametric-configurations/03-exercises/exercise-01-first-drawing.md",
+      "title": "Exercise 1 \u2014 Your First Drawing"
+    },
+    {
+      "path": "curriculum/week-05-drawings-gdt-and-parametric-configurations/03-exercises/exercise-02-section-views-and-gdt.md",
+      "title": "Exercise 2 \u2014 Section Views & GD&T"
+    },
+    {
+      "path": "curriculum/week-05-drawings-gdt-and-parametric-configurations/03-exercises/exercise-03-configurations-part-family.md",
+      "title": "Exercise 3 \u2014 Configurations: One Part, Three Sizes"
+    },
+    {
+      "path": "curriculum/week-05-drawings-gdt-and-parametric-configurations/04-challenges/00-overview.md",
+      "title": "Week 5 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-05-drawings-gdt-and-parametric-configurations/04-challenges/challenge-01-manufacturing-ready-drawing.md",
+      "title": "Challenge 1 \u2014 A Manufacturing-Ready, Configured Drawing"
+    },
+    {
+      "path": "curriculum/week-05-drawings-gdt-and-parametric-configurations/05-quiz.md",
+      "title": "Week 5 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-05-drawings-gdt-and-parametric-configurations/06-homework.md",
+      "title": "Week 5 Homework"
+    },
+    {
+      "path": "curriculum/week-05-drawings-gdt-and-parametric-configurations/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 Parameterize & Document the Assembly's Key Part"
+    },
+    {
+      "path": "curriculum/week-06-capstone-multi-part-mechanism/00-overview.md",
       "title": "Week 06 \u2014 Capstone: Multi-Part Mechanism & Drawing Package"
     },
     {
-      "path": "curriculum/week-06-capstone-multi-part-mechanism/challenges/README.md",
-      "title": "Week 06 \u2014 Challenges"
+      "path": "curriculum/week-06-capstone-multi-part-mechanism/01-resources.md",
+      "title": "Week 06 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-06-capstone-multi-part-mechanism/challenges/challenge-01-deliver-the-capstone-live.md",
-      "title": "Challenge 1 \u2014 Deliver the original multi-part mechanism, live"
-    },
-    {
-      "path": "curriculum/week-06-capstone-multi-part-mechanism/exercises/README.md",
-      "title": "Week 06 \u2014 Exercises"
-    },
-    {
-      "path": "curriculum/week-06-capstone-multi-part-mechanism/exercises/exercise-01-concept-to-skeleton.md",
-      "title": "Exercise 1 \u2014 Concept sketch to a draggable kinematic skeleton, with a DOF budget"
-    },
-    {
-      "path": "curriculum/week-06-capstone-multi-part-mechanism/exercises/exercise-02-mate-the-mechanism.md",
-      "title": "Exercise 2 \u2014 Mate the mechanism so it has exactly the intended degrees of freedom"
-    },
-    {
-      "path": "curriculum/week-06-capstone-multi-part-mechanism/exercises/exercise-03-configure-and-release.md",
-      "title": "Exercise 3 \u2014 Configure a part, prove the rebuild, tag a Version, and export STEP + STL"
-    },
-    {
-      "path": "curriculum/week-06-capstone-multi-part-mechanism/homework.md",
-      "title": "Week 06 Homework"
-    },
-    {
-      "path": "curriculum/week-06-capstone-multi-part-mechanism/lecture-notes/01-designing-a-working-mechanism.md",
+      "path": "curriculum/week-06-capstone-multi-part-mechanism/02-lecture-notes/01-designing-a-working-mechanism.md",
       "title": "Lecture 1 \u2014 Designing a Working Mechanism: From Concept Sketch to Articulating Assembly"
     },
     {
-      "path": "curriculum/week-06-capstone-multi-part-mechanism/lecture-notes/02-shipping-a-cad-deliverable.md",
+      "path": "curriculum/week-06-capstone-multi-part-mechanism/02-lecture-notes/02-shipping-a-cad-deliverable.md",
       "title": "Lecture 2 \u2014 Shipping a CAD Deliverable: Versions, Releases, Export Formats, and the Drawing Package"
     },
     {
-      "path": "curriculum/week-06-capstone-multi-part-mechanism/mini-project/README.md",
-      "title": "Mini-Project \u2014 The Full Capstone: An Original Multi-Part Mechanism & Drawing Package"
+      "path": "curriculum/week-06-capstone-multi-part-mechanism/03-exercises/00-overview.md",
+      "title": "Week 06 \u2014 Exercises"
     },
     {
-      "path": "curriculum/week-06-capstone-multi-part-mechanism/quiz.md",
+      "path": "curriculum/week-06-capstone-multi-part-mechanism/03-exercises/exercise-01-concept-to-skeleton.md",
+      "title": "Exercise 1 \u2014 Concept sketch to a draggable kinematic skeleton, with a DOF budget"
+    },
+    {
+      "path": "curriculum/week-06-capstone-multi-part-mechanism/03-exercises/exercise-02-mate-the-mechanism.md",
+      "title": "Exercise 2 \u2014 Mate the mechanism so it has exactly the intended degrees of freedom"
+    },
+    {
+      "path": "curriculum/week-06-capstone-multi-part-mechanism/03-exercises/exercise-03-configure-and-release.md",
+      "title": "Exercise 3 \u2014 Configure a part, prove the rebuild, tag a Version, and export STEP + STL"
+    },
+    {
+      "path": "curriculum/week-06-capstone-multi-part-mechanism/04-challenges/00-overview.md",
+      "title": "Week 06 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-06-capstone-multi-part-mechanism/04-challenges/challenge-01-deliver-the-capstone-live.md",
+      "title": "Challenge 1 \u2014 Deliver the original multi-part mechanism, live"
+    },
+    {
+      "path": "curriculum/week-06-capstone-multi-part-mechanism/05-quiz.md",
       "title": "Week 06 \u2014 Quiz"
     },
     {
-      "path": "curriculum/week-06-capstone-multi-part-mechanism/resources.md",
-      "title": "Week 06 \u2014 Resources"
+      "path": "curriculum/week-06-capstone-multi-part-mechanism/06-homework.md",
+      "title": "Week 06 Homework"
+    },
+    {
+      "path": "curriculum/week-06-capstone-multi-part-mechanism/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 The Full Capstone: An Original Multi-Part Mechanism & Drawing Package"
+    },
+    {
+      "path": "past-sessions/SPRING-2025/README-C12-SPRING25.MD",
+      "title": "C12 Crunch 3D"
+    },
+    {
+      "path": "projects/capstone/00-overview.md",
+      "title": "Capstone Project \u2014 Master Guide"
+    },
+    {
+      "path": "resources/setup-guides/00-overview.md",
+      "title": "Setup Guides"
+    },
+    {
+      "path": "resources/setup-guides/browser.md",
+      "title": "Browser-Based Setup (No Install)"
+    },
+    {
+      "path": "resources/setup-guides/linux.md",
+      "title": "Linux Setup Guide"
+    },
+    {
+      "path": "resources/setup-guides/macos.md",
+      "title": "macOS Setup Guide"
+    },
+    {
+      "path": "resources/setup-guides/windows.md",
+      "title": "Windows Setup Guide"
     }
   ]
 }
