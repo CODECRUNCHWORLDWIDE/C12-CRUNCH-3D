@@ -1,5 +1,7 @@
 # C12-CRUNCH-3D
 
+> A hands-on 6-week course in 3D modeling and assemblies using OnShape — mini-lectures paired with hackathon-style projects that build real CAD skills from the ground up.
+
 Welcome to the repository for **C12 Crunch 3D: CAD & Modeling**! This interactive course is designed to equip learners with hands-on experience in **3D modeling and assemblies** through the program **OnShape**. Throughout this 6-week course, learners will engage in mini-lectures and hackathon-style projects to solidify their technical skills.
 
 ## 🔗 Quick Access  
