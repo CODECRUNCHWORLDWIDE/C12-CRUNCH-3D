@@ -2,9 +2,9 @@
   "repo": "C12-CRUNCH-3D",
   "updated": "2026-06-11T14:22:51-05:00",
   "files": [
-    {"path": "._README.md", "title": ". README"},
-    {"path": "README.md", "title": "C12-CRUNCH-3D"},
-    {"path": "SPRING-2025/._README-C12-SPRING25.MD", "title": ". README C12 SPRING25"},
-    {"path": "SPRING-2025/README-C12-SPRING25.MD", "title": "C12 Crunch 3D"}
+    {
+      "path": "README.md",
+      "title": "C12-CRUNCH-3D"
+    }
   ]
 }
