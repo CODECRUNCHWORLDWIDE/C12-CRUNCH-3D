@@ -50,6 +50,5 @@ If you have any questions or feedback, feel free to reach out. Happy CADing! �
 - **Curriculum** — [curriculum/](curriculum/)
 - **Projects** — [projects/](projects/)
 - **Resources** — [resources/](resources/)
-- **Past sessions** — [past-sessions/](past-sessions/)
 
 <!-- CCWW:AUTO-INDEX:END -->
